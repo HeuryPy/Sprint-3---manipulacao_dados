@@ -18,6 +18,7 @@ Foram plotados  gráficos para apresentar os resultados.
 - projeto_sprint3.ipynb (Caderno Jupyter)
 - instacart_orders.csv (dataset)
 - products.csv (dataset)
-- order_products.csv (dataset)
 - aisles.csv (dataset)
 - departments.csv
+- order_products.csv (dataset) **Observação:** devido ao tamanho do arquivo, não foi possível carregar no Github. O arquivo pode ser baixado no link: [download](https://drive.google.com/file/d/1W7U00O4NMqW60Yf5j7betZb_mTLPnaI2/view?usp=sharing)
+
