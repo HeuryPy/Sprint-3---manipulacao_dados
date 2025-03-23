@@ -1,6 +1,6 @@
 # Manipulação de Dados
 
-**Apresentação do Projeto:**
+**Apresentação do Projeto:**<br>
 Este Projeto foi desenvolvido como requisito para aprovação na Sprint 3 do Bootcamp de Análise de Dados da Tripleten.<br>
 
 🧩O Projeto abordou os seguintes conhecimentos:
