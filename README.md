@@ -14,6 +14,10 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 3 do Boo
 Foi necessário limpar os dados e preparar um relatório que fornecesse informações sobre os hábitos de compra dos clientes da Instacart. <br>
 Foram plotados  gráficos para apresentar os resultados. 
 
+**Sugestões para o futuro:**<br>
+Cuidar com os nomes das variáveis ao fazer referências às mesmas durante o código.<br>
+
+
 **Arquivos do Projeto:**
 - projeto_sprint3.ipynb (Caderno Jupyter)
 - instacart_orders.csv (dataset)
